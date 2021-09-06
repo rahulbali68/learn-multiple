@@ -1,8 +1,7 @@
 version: 0.0
 os: linux
 files:
- - source: /index.html
-   destination: /var/www/html/multi
+  
 hooks:
   BeforeInstall:
     - location: BeforeInstall.sh

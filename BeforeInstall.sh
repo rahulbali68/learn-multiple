@@ -1,1 +1,1 @@
-mkdir -p /var/www/html/multi
+yum install php -y
